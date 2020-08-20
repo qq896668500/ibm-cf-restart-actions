@@ -3,7 +3,7 @@
 
 ## 使用之前，有几项准备工作
 1. IBMCloud的账号密码
-2. Cloud Foundry应用程序的区域
+2. Cloud Foundry应用程序的区域.
 3. Cloud Foundry应用程序的名称
 
 ## 使用方法
